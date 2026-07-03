@@ -225,7 +225,7 @@ group by shift
 ```
 
 11. **Find the category with highest average quantity sold.**
-
+'''sql
 select 
     category,
     round(avg(quantiy),2) as
@@ -233,17 +233,17 @@ select
 from retail_sales
 group by category
 order by avg_quantiy desc
-
+'''
 
 12. **Find customers who have spent more than rs2000 in total.**
-
+'''sql
 select 
     customer_id,sum(total_sale) as total_spent
 from retail_sales
 group by customer_id 
 having sum(total_sale) > 2000
 order by total_spent desc;
-
+'''
 
 ## Findings
 
