@@ -261,3 +261,9 @@ order by total_spent desc;
 ## Conclusion
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+
+
+## Linkedin Project post
+
+(https://www.linkedin.com/posts/darameghana_dataanalytics-sql-mysql-ugcPost-7479061236148543489-_byv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_WDeEBC0fVi7tVEh3ksFR2CTX--PYKJdo)
+
