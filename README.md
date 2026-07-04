@@ -265,5 +265,5 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Linkedin Project post
 
-(https://www.linkedin.com/posts/darameghana_dataanalytics-sql-mysql-ugcPost-7479061236148543489-_byv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_WDeEBC0fVi7tVEh3ksFR2CTX--PYKJdo)
+[View Linkedin project Post](https://WWW.linkedin.com/posts/darameghana_dataanalytics-sql-mysql-ugcPost-7479061236148543489-_byv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_WDeEBC0fVi7tVEh3ksFR2CTX--PYKJdo)
 
